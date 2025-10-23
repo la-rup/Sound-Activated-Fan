@@ -9,6 +9,8 @@ Check out this short, high-quality demo that walks through the project in a fun 
 
 [Click here to see the demo!](https://www.youtube.com/watch?v=w1QU7YZ3MbU)
 
+*This project was made as part of Oregon State University's ME 351 Intro to Instrumentation class.*
+
 ## Components Used
 | Component | Description | 
 | :--- | :--- | 
