@@ -1,7 +1,13 @@
 # Sound-Activated-Fan
 
 ## Elevator Pitch
-On blistering summer days, the last thing you should have to do is over-exert yourself just to turn on a fan. With this handheld sound-activated fan system, all you need to do is snap your fingers and cool air comes your way! This ‘cool’ product features a fan powered by a DC brushed motor, a sound sensor, and an LED that visually indicates sound intensity and fan speed.
+On blistering summer days, the last thing you should have to do is overexert yourself just to turn on a fan. With this handheld sound-activated fan system, all you need to do is snap your fingers and cool air comes your way! This ‘cool’ product features a fan powered by a DC brushed motor, a sound sensor, and an LED that visually indicates sound intensity and fan speed.
+
+### Project Demo Video
+Curious how this sound-activated fan system works in real life?
+Check out this short, high-quality demo that walks through the project in a fun and engaging way for all types of audiences:
+
+[Click here to see the demo!](https://www.youtube.com/watch?v=w1QU7YZ3MbU)
 
 ## Components Used
 | Component | Description | 
